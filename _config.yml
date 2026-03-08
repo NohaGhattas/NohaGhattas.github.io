@@ -1,1 +1,11 @@
+title: Noha Mohamed Metwally Sharaf Ghattas
+email: Nohaangel4@gmail.com 
+  "Dynamic AI Engineer and former Data Science Research Assistant with expertise in designing and deploying end-to-end Machine Learning and Deep Learning systems. Proven track record in developing innovative AI solutions for complex challenges, including climate change modeling. Skilled in Python, PyTorch, and Scalable Database Systems, with a focus on bridging the gap between advanced research and production-ready software."
 
+# Build settings
+theme: minima
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
