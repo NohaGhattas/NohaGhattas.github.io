@@ -1,1 +1,8 @@
+remote_theme: heiswayi/the-plain
+plugins:
+  - jekyll-remote-theme
 
+# بياناتك الشخصية
+title: Noha Ghattas
+description: AI Engineer | ML & NLP Specialist
+author: Noha Ghattas
